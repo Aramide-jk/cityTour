@@ -1,6 +1,3 @@
-import React from "react";
-import TourList from "../tourList";
-import Tour from "./Tour";
 import { useNavigate } from "react-router-dom";
 
 export default function Home() {
