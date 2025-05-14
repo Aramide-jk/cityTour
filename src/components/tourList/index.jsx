@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Tour from "../tour";
-import { tourData } from "../../TourData";
+import { tourData } from "../tourData";
 
 export default function TourList() {
   const [tours, setTours] = useState(tourData);

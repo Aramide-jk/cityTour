@@ -1,5 +1,4 @@
-import React, { useCallback, useState } from "react";
-// import img from "../../assets/img-src/uk.jpeg";
+import { useState } from "react";
 
 import { IoMdArrowDropdownCircle } from "react-icons/io";
 import { FaRegTimesCircle } from "react-icons/fa";
