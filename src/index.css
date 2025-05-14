@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --primary-color: #0ea5e9;
+  --font-base: "Open Sans", sans-serif;
+
+  font-family: var(--font-base);
+  color: #333;
+  background-color: #f9fafb;
+}
+
+.head {
+  font-family: var(--font-base);
+  /* color: var(--primary-color); */
+}
