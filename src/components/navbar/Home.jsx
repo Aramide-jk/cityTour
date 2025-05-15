@@ -6,7 +6,7 @@ export default function Home() {
     <div
       className="flex justify-center flex-col items-center gap-5 h-[88vh] bg-cover bg-center text-gray-50"
       style={{
-        backgroundImage: 'url("../../../public/assets/img-src/doha.jpg")',
+        backgroundImage: 'url("/public/assets/img-src/doha.jpg")',
       }}>
       <h1 className="font-bold text-lg md:text-5xl flex flex-col md:gap-3 font-stretch-semi-condensed">
         EXPLORE <span> DREAM DESTINATION</span>
